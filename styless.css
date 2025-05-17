@@ -1,0 +1,68 @@
+*{  margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+
+    body{
+background-color: bisque;
+font-family: "Open Sans", sans-serif;
+    }
+    .logo{   
+    padding: 120px*120px;
+}
+ header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+    
+    .div_1{
+     
+        background-color: rgb(97, 77, 116);
+        text-align: 8 px;
+        
+    }
+    .details {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    text-decoration: none;
+   
+    }
+        
+h1 {
+    color: coral;
+    text-align: center;
+    font-size: 58px;
+}
+h2{
+ color: rgb(12, 131, 61);
+    text-align:left;
+    font-size: 48px;
+    }
+
+.section_1{
+    background-color: brown;
+}
+
+    
+
+    .paragraph_1{
+       color: darkblue;
+       font-size: 28px;
+          }
+.line {
+height: 3px;
+background-color: rgb(128, 85, 37);
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 25px;
+    color: darkblue;
+}
+
+paragraph_2 {
+       color: darkblue;
+       font-size: 18px;
+}
